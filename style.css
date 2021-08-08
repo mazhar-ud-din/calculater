@@ -1,0 +1,26 @@
+.main {
+    border: 2px solid lightgrey;
+    width: 190px;
+    margin: 0 auto;
+}
+
+.result {
+    background-color: lightgrey;
+}
+
+.Btn {
+    width: 43px;
+    margin-top: 3px;
+    background-color: lightcoral;
+}
+
+.clear {
+    width: 186px;
+    margin-top: 3px;
+}
+
+.Btn1 {
+    width: 90px;
+    margin-top: 3px;
+    background-color: lightcoral;
+}
